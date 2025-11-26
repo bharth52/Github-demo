@@ -1,0 +1,2 @@
+this moudle is to add products into the cart
+it is developed by Harii
